@@ -4,7 +4,7 @@ export const App = () =>  {
 
   return (
     <>
-      <h1>Hello coder 🌍</h1>
+      <h1 className=''>Hello coder 🌍</h1>
     </>
   )
 }
